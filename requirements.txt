@@ -17,5 +17,5 @@ gluonts
 mxnet
 statsmodels
 tensorflow
-sklearn
+scikit-learn
 tqdm
