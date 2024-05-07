@@ -19,3 +19,10 @@ statsmodels
 tensorflow
 scikit-learn
 tqdm
+ipython
+ipywidgets>=7.5
+notebook
+jupyterlab=1.*
+klib
+sweetviz
+pandas_profiling
