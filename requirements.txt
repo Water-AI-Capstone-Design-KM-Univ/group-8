@@ -25,4 +25,4 @@ notebook
 jupyterlab
 klib
 sweetviz
-pandas_profiling
+feature_engine
