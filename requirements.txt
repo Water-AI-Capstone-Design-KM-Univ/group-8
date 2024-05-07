@@ -22,7 +22,7 @@ tqdm
 ipython
 ipywidgets>=7.5
 notebook
-jupyterlab=1.*
+jupyterlab
 klib
 sweetviz
 pandas_profiling
